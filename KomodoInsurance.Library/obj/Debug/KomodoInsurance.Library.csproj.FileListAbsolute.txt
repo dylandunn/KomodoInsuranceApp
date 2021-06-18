@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\.NetProjects\KomodoInsurance\KomodoInsurance.Library\bin\Debug\KomodoInsurance.Library.dll
+C:\ElevenFiftyProjects\.NetProjects\KomodoInsurance\KomodoInsurance.Library\bin\Debug\KomodoInsurance.Library.pdb
+C:\ElevenFiftyProjects\.NetProjects\KomodoInsurance\KomodoInsurance.Library\obj\Debug\KomodoInsurance.Library.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\.NetProjects\KomodoInsurance\KomodoInsurance.Library\obj\Debug\KomodoInsurance.Library.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\.NetProjects\KomodoInsurance\KomodoInsurance.Library\obj\Debug\KomodoInsurance.Library.dll
+C:\ElevenFiftyProjects\.NetProjects\KomodoInsurance\KomodoInsurance.Library\obj\Debug\KomodoInsurance.Library.pdb
